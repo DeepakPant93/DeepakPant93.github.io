@@ -13,14 +13,12 @@ last_update:
 
 # Education
 
-<div class="img-small" > ![IIIT Bangalore](./img/iiitb-logo.png)</div>
 
 ## Master of Science in Data Science
 **IIIT Bangalore**  
 _Bangalore, IN_  
 _2023 – Present_
 
-<div class="img-small" > ![UTU](./img/utu-logo.png)</div>
 
 ## B.Tech in Computer Science and Engineering
 **Uttarakhand Technical University**  

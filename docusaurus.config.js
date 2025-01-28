@@ -3,7 +3,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "Deepak Pant",
   tagline: "AWS Certified | Lead Technical Architect | Certified Salesforce AI Associate",
-  favicon: "img/logo.ico",
+  favicon: "img/logo.png",
   url: "https://deepakpant93.github.io/",
   baseUrl: "/",
   organizationName: "DeepakPant93",
