@@ -127,7 +127,8 @@ export default function HomepageHeader() {
               <p>
                 I am a Salesforce Certified AI Associate and AWS Certified Solutions Architect with over 11 years of experience in software engineering and architecture. 
                 I have expertise in cloud computing, micro-services, and AI-driven solutions. 
-                I have a proven ability to design scalable applications, lead teams, and deliver innovative projects.
+                I have a proven ability to design scalable applications, lead teams, and deliver innovative projects.<br/><br/>
+                
               </p>
 
               <Grid
@@ -166,21 +167,23 @@ export default function HomepageHeader() {
                 </Link>
               </Grid>
             </Grid>
-            <div className={styles.buttons}>
-              <Link
-                className="button button--secondary button--lg"
-                to="/docs/about_me/intro"
-              >
-                About me
-              </Link>
-            </div>
-            <div className={styles.buttons}>
-              <Link
-                className="button button--secondary button--lg"
-                to="/docs/about_me/intro"
-              >
-                Download Resume
-              </Link>
+            <div className={styles.buttonContainer}>
+              <div className={styles.buttons}>
+                <Link
+                  className="button button--secondary button--lg"
+                  to="/docs/about_me/intro"
+                >
+                  About me
+                </Link>
+              </div>
+              <div className={styles.buttons}>
+                <Link
+                  className="button button--secondary button--lg"
+                  to="/docs/about_me/intro"
+                >
+                  Download Resume
+                </Link>
+              </div>
             </div>
           </Grid>
         </Grid>

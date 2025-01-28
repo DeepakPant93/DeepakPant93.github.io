@@ -33,4 +33,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex: 1;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 10px; /* Adjust the gap as needed */
 }
