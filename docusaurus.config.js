@@ -73,7 +73,7 @@ const config = {
           items: [
             {
               label: "My Work",
-              to: "docs/about_me/work_experience",
+              to: "docs/category/my-projects",
             },
           ],
         },
