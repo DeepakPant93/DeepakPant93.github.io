@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_personal_website=self.webpackChunkmy_personal_website||[]).push([[67],{9187:e=>{e.exports=JSON.parse('{"tags":[{"label":"education","permalink":"/docs/tags/education","count":1},{"label":"skills","permalink":"/docs/tags/skills","count":1},{"label":"work experience","permalink":"/docs/tags/work-experience","count":1}]}')}}]);
