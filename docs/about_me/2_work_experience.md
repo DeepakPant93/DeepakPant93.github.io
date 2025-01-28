@@ -17,7 +17,8 @@ last_update:
 
 # Work Experience
 
-## Freelancer | AI & Cloud Solutions
+## AI & Cloud Consultant
+**Freelancer, Remote**
 **Noida, IN**  
 _Aug 2024 – Present_
 

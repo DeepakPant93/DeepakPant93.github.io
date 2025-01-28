@@ -179,7 +179,7 @@ export default function HomepageHeader() {
               <div className={styles.buttons}>
                 <Link
                   className="button button--secondary button--lg"
-                  to="/docs/about_me/intro"
+                  to="https://raw.githubusercontent.com/DeepakPant93/DeepakPant93.github.io/refs/heads/main/resume/deepak-pant.pdf"
                 >
                   Download Resume
                 </Link>
