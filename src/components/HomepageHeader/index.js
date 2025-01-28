@@ -68,7 +68,7 @@ export default function HomepageHeader() {
           >
             <img
               alt={"Deepak Pant"}
-              src={useBaseUrl("/img/federico.jpg")}
+              src={useBaseUrl("/img/deepak-pant.jpg")}
               style={{
                 borderRadius: "50%",
                 maxWidth: "225px",
