@@ -84,7 +84,7 @@ export default function HomepageHeader() {
                 width: "100px",
               }}
             >
-              <AnimatedSvg />
+
             </div>
           </Grid>
           <svg
