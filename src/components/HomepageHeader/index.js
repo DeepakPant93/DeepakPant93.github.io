@@ -173,7 +173,7 @@ export default function HomepageHeader() {
                   className="button button--secondary button--lg"
                   to="/docs/about_me/intro"
                 >
-                  About me
+                  About Me
                 </Link>
               </div>
               <div className={styles.buttons}>
