@@ -28,7 +28,7 @@ I have held several positions:
 * **Lead Technical Architect | Coredge, Noida (Oct 2021 – Jul 2024)**
 * **Senior Software Engineer/Team Lead | Dew Solutions, Gurgaon (Nov 2019 – Sep 2021)**
 * **Senior Software Engineer | Fidelity International, Gurgaon (Aug 2017 – Oct 2019)**
-* **Software Engineer | CenturyLink Technologies, Noida (Jun 2015 – Aug 2017)**
+* **Software Engineer | Lumen, Noida (Jun 2015 – Aug 2017)**
 * **Software Engineer | S-Beta Technology Pvt. Ltd, Delhi (Jun 2013 – Jun 2015)**
 
 I have also contributed to open-source projects, such as:

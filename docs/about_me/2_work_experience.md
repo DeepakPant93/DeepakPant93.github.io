@@ -7,7 +7,7 @@ keywords:
   - Coredge
   - Dew Solutions
   - Fidelity International
-  - CenturyLink Technologies
+  - Lumen
   - S-Beta Technology Pvt. Ltd
 image: assets/img/website_screenshot.png
 description: This page summarises Deepak Pant's work experience
