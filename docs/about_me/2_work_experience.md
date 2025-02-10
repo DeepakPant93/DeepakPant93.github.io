@@ -22,7 +22,7 @@ last_update:
 **Noida, IN**  
 _Aug 2024 – Present_
 
-- **Developed** an AI-driven chatbot for personalized yoga and wellness recommendations, serving over **5,000 users** in the first three months.
+- **Developed** an AI-driven chatbot for personalized event planning, serving over **5,00 users** in the first three months.
 - **Architected** a FastAPI-based microservice for email marketing, managing over **1 million email deliveries monthly** across AWS, and Azure platforms.
 - **Enhanced** email campaign targeting efficiency by **30%** through AI algorithm optimization.
 
