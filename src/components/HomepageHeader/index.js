@@ -160,7 +160,7 @@ export default function HomepageHeader() {
               <Grid item>
                 <Link
                   className="button"
-                  to="https://www.linkedin.com/in/deepak-pant-014787115/"
+                  to="https://www.linkedin.com/in/iam-deepakpant/"
                   style={{ padding: "1rem" }}
                 >
                   <LinkedInIcon fontSize={"large"} />

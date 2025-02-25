@@ -82,7 +82,7 @@ const config = {
           items: [
             {
               label: "LinkedIn",
-              href: "https://www.linkedin.com/in/deepak-pant-014787115/",
+              href: "https://www.linkedin.com/in/iam-deepakpant/",
             },
             {
               label: "Twitter",
